@@ -1,2 +1,2 @@
 # go-book-examples
-practice examples and exercises from go book
+try out examples and exercises from go book

@@ -18,8 +18,8 @@ func main() {
 	fmt.Println(s)
 	end := time.Since(start).Seconds()
 	fmt.Println(end)
-	new_start := time.Now()
+	newStart := time.Now()
 	fmt.Println(strings.Join([]string{"1", "2", "3", "4", "5"}, " "))
-	new_end := time.Since(new_start).Seconds()
-	fmt.Println(new_end)
+	newEnd := time.Since(newStart).Seconds()
+	fmt.Println(newEnd)
 }
